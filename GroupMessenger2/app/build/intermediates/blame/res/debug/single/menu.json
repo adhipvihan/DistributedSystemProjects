@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adhip/androidprojects/WorkingBackupSubmitcopy/GroupMessenger2/app/build/intermediates/res/merged/debug/menu/activity_group_messenger.xml",
+        "source": "/home/adhip/androidprojects/WorkingBackupSubmitcopy/GroupMessenger2/app/src/main/res/menu/activity_group_messenger.xml"
+    },
+    {
+        "merged": "/home/adhip/androidprojects/WorkingMast/GroupMessenger2/app/build/intermediates/res/merged/debug/menu/activity_group_messenger.xml",
+        "source": "/home/adhip/androidprojects/WorkingMast/GroupMessenger2/app/src/main/res/menu/activity_group_messenger.xml"
+    }
+]
